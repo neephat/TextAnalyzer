@@ -1,3 +1,5 @@
+Text Analyzer is a basic app using react JS. This is my first react app. You can convert any text into Uppercase, lowercase. You can copy the text and remove extra spaces from a text. You can count Characters, Words and Spaces of your writing and also see the timing of your word count. There has a toggle mode of Dark & Light Mode. You can see react routing in this app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
