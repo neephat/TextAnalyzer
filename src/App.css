@@ -1,0 +1,35 @@
+
+.nav-link{
+  font-weight: 600 !important;
+}
+.nav-link:hover {
+  transform: scale(1.1, 1.2);
+  transition: 0.3s;
+}
+.container{
+  text-align: center  ;
+}
+.container .head2nd{
+  text-align: left;
+}
+.para{
+  font-size: 20px;
+  font-weight: normal;
+  display: inline-block;
+}
+.para1{
+  font-size: 15px;
+  font-weight: 600;
+  border: 1px solid grey;
+  border-radius: 3px;
+  resize:none;
+}
+.previewed{
+  font-size: 27px;
+  text-align: center;
+  margin-top: 30px;
+}
+.alert{
+  text-align: center;
+  
+}
